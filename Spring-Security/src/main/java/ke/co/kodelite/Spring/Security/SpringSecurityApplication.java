@@ -10,4 +10,5 @@ public class SpringSecurityApplication {
 		SpringApplication.run(SpringSecurityApplication.class, args);
 	}
 
+	//https://spring-boot-security-aws-bucket.s3.eu-north-1.amazonaws.com/spring-boot-security-aws-exe.jar
 }

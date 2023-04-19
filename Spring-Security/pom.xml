@@ -86,6 +86,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-security-aws-exe</finalName>
 	</build>
 
 </project>
