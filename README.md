@@ -18,7 +18,7 @@ Maven
 ## Why build secure backend applications?
 
 ```bash
-1.To protect User Data
+1.To protect user data
 2.To maintain business reputation
 3.To enhance functionality, and
 4.To comply with regulation(s)
