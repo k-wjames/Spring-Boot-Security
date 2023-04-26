@@ -12,6 +12,7 @@ Spring Boot
 JWT
 AWS Elastic Bean
 AWS RDS
+Maven
 ```
 
 ## Why build secure backend applications?
